@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "basic_widgets",
+            "cwd": "basic_widgets",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "basic_widgets (profile mode)",
+            "cwd": "basic_widgets",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "basic_widgets (release mode)",
+            "cwd": "basic_widgets",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "modern_profile",
+            "cwd": "modern_profile",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modern_profile (profile mode)",
+            "cwd": "modern_profile",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modern_profile (release mode)",
+            "cwd": "modern_profile",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "myfirst_app",
+            "cwd": "myfirst_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "myfirst_app (profile mode)",
+            "cwd": "myfirst_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "myfirst_app (release mode)",
+            "cwd": "myfirst_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
